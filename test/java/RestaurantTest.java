@@ -72,7 +72,7 @@ class RestaurantTest {
                 ()->restaurant.removeFromMenu("French fries"));
     }
     //<<<<<<<<<<<<<<<<<<<<<<<MENU>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-/*
+
     //>>>>>>>>>>>>>>>>>>>>>>ItemTotal<<<<<<<<<<<<<<<<<<<<<<<<<<
     @Test
     public void selected_items_from_menu_should_return_total(){
@@ -92,5 +92,5 @@ class RestaurantTest {
 
     }
     //<<<<<<<<<<<<<<<<<<<<<<<<<<ItemTotal>>>>>>>>>>>>>>>>>>>>>>>>>>>
- */
+
 }
