@@ -70,7 +70,7 @@ public class Restaurant {
     public String getName() {
         return name;
     }
-/*
+
 
     //to generate a list of selected items from the menu
     public void selectItemsFromMenu(String name){
@@ -85,6 +85,5 @@ public class Restaurant {
         }
         return total;
     }
-*/
 
 }
